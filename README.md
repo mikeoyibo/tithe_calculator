@@ -1,8 +1,16 @@
-# tithe_calculator
-A very basic tithe calculator to walk beginners through learning python function concepts.
+# Tithe Calculator
+
+Simple Python function that calculates your tithe based on your income and a specified percentage.
+
+## Usage
+
+To use this tithe calculator, you can import the `tithe_calc` function into your Python script or interactive environment and provide your income and tithe percentage as arguments.
+
+```python
+from tithe_calculator import tithe_calc
+
+income = 50000  # Replace with your income
+tithe_percent = 10  # Replace with your desired tithe
 
 
-
-
-This function takes in net income and an optional tithe percentage as arguments. 
-However, the default parameter for tithe percentage is set at 10%. 
+### The default currency symbol for the function is set to `Naira` the great `Nigerian` currency symbol!
