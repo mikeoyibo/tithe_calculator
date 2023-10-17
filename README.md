@@ -14,5 +14,6 @@ tithe_percent = 10  # Replace with your desired tithe
 
 tithe_calc(income, tithe_percent)
 ```
-# Currency Symbol
+
+## Currency Symbol
 The default currency symbol for the function is set to `Naira` the great `Nigerian` currency symbol!
